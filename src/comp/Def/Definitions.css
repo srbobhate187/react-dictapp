@@ -1,0 +1,7 @@
+.means{
+  display: flex;
+  flex-direction: column;
+}
+.subs{
+  font-size: 5vw;
+}
